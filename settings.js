@@ -4,25 +4,25 @@
 //Instagram: techgod143
 //Telegram: t.me/techgod143
 //GitHub: @techgod143
-//WhatsApp: +917466008456
+//WhatsApp: +2349127566707
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348133286181"
-global.ownername = "Lord No Name"
+global.ownernomer = "2349127566707"
+global.ownername = "Anonymous"
 global.ytname = "YT: No-Name-Tech"
 global.socialm = "GitHub: Anime-King01"
 global.location = "Africa/Lagos"
 
-global.ownernumber = '2348133286181'  //creator number
-global.ownername = 'Lord No Name' //owner name
+global.ownernumber = '2349127566707'  //creator number
+global.ownername = 'Anonymous' //owner name
 global.botname = 'Devil_Cat ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Lord No Name\n\nContact: +2348133286181'
+global.author = 'Anonymous\n\nContact: +2349127566707'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -37,11 +37,11 @@ global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = true //auto view status/story
+global.autoswview = false //auto view status/story
 
 //menu type 
 //v1 is image menu, 
@@ -59,8 +59,8 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by Lord No Name or premium user only',
-    admin: 'This feature can be used by Lord No Name or admin only',
+    prem: 'This feature can be used by Anonymous or premium user only',
+    admin: 'This feature can be used by Anonymous or admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
     owner: 'This feature can be used by Lord No Name or owner only',
     group: 'This feature is only for groups',
